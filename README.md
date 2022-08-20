@@ -1,25 +1,5 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT+XRAY+MANTAP" />
-</p>
-
 # XRAY MANTAP
-- ***Script XRAY Multi Port 443/80 By SL***
-- ***SCRIPT UNTUK MEMBUAT SERVER VPN***
-
-<p align='center'><a href="https://api.daily.dev/get?r=kenDevXD"><img src="https://raw.githubusercontent.com/kenDevXD/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
-
-<p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=kenDevXD">
-</p>
-<div height='45' align="center">
-<h2>Contact me: <br>
-<a href="https://facebook.com/sulaiman.xl"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-<h2>Support me: <br>
-<a href="https://trakteer.id/sulaiman-l/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
-</h2>
-</div>
-#
-
+- ***Script XRAY Multi Port 443/80
 # FITUR XRAY TLS
 - TROJAN WS        : **443**
 - TROJAN GRPC      : **443**
@@ -56,28 +36,6 @@ https://github.com/kenDevXD/XRAY-FOR-ANDROID
 - Wajib Punya Akun Cloudflare
 - Wajib Punya Domain Punya Kamu Sendiri
 - ***Jika semua syarat dan Bahan sudah terpenuhi ,silahkan di coba script ini***
-
-# Settingan Di Cloudflare
-1. Buat VPS Baru
-2. Pointing Dulu Domain Kamu, Kalo sudah pernah di pointing
-   - Pergi ke dash.cloudflare.com,lalu pilih domain punya kamu, di tab TLS/SSL lalu pilih Overview, di tab TLS/SSL Harus pilih yang FULL
-   - FULL (Encrypts end-to-end, using a self signed certificate on the server)✅
-   ![settinggambar1](https://raw.githubusercontent.com/kenDevXD/XRAY-MANTAP/main/img/settingambar1.jpg)
-   ![settinggambar2](https://raw.githubusercontent.com/kenDevXD/XRAY-MANTAP/main/img/settingambar2.jpg)
-   ![settinggambar3](https://raw.githubusercontent.com/kenDevXD/XRAY-MANTAP/main/img/settingambar3.jpg)
-   - Lalu pilih Edge Certificates disini kamu harus matikan Always Use HTTPS (Harus Mati/OFF)❌
-   ![settinggambar4](https://raw.githubusercontent.com/kenDevXD/XRAY-MANTAP/main/img/settingambar4.jpg)
-   - Buka tab Network di cloudflare kamu aktifkan WebSocket nya ✅
-   ![settinggambar5](https://raw.githubusercontent.com/kenDevXD/XRAY-MANTAP/main/img/settingambar5.jpg)
-   ![settinggambar6](https://raw.githubusercontent.com/kenDevXD/XRAY-MANTAP/main/img/settingambar6.jpg)
-3. Setting Di Cloudflare Selesai
-# Cara Install Script Nya
-- Login ke VPS kamu ( wajib pake user ***root***)
-1. MASUK KE VPS LALU KETIK
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=sudo+su" />
-</p>
 
 
 ```
